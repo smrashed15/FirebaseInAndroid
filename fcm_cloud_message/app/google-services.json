@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "911539659946",
+    "firebase_url": "https://fcmcloudmessage-7c0eb.firebaseio.com",
+    "project_id": "fcmcloudmessage-7c0eb",
+    "storage_bucket": "fcmcloudmessage-7c0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911539659946:android:847a9d7fcf9b867f",
+        "android_client_info": {
+          "package_name": "com.e_vision.e_vision.fcm_cloud_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911539659946-bul7qpjo9ic0irn6f557vj1casj5ed5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e_vision.e_vision.fcm_cloud_message",
+            "certificate_hash": "59835fee8aeaa204a364575b4bcfa0f62ff124b7"
+          }
+        },
+        {
+          "client_id": "911539659946-k2i6u45i2u06v0jqsl026i2jm1igq1o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsaLcGbEOxFjJnuU2_ooCXmIq5YKsQXpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911539659946-k2i6u45i2u06v0jqsl026i2jm1igq1o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
